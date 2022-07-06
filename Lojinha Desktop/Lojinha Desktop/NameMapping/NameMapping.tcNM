@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{CE1960C6-DAEA-4508-8768-4449917ECD55}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="browser" Key="{B18E5184-75DE-4A0A-A84E-4D3EE61B7EF5}">
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="pageWhatsapp" Key="{71CECE20-FDB0-4100-9726-024F00028ED2}">
+								<Image FileName="563497186" Left="0" Top="71" Right="1366" Bottom="671" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.whatsapp.com/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panelWhatsappWeb" Key="{03474D50-20D1-42DE-9929-FE45E74A98F4}">
+										<Image FileName="563497186" Left="0" Top="162" Right="1349" Bottom="2376" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Panel" />
+											</Property>
+											<Property Name="dataset.testid">
+												<Value Value="whatsapp_www_full_page" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panelWhatsappWeb" Key="{21793305-9759-46A8-A55D-43F30622E380}">
+												<Image FileName="563497186" Left="0" Top="162" Right="1349" Bottom="1943" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Panel" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="0" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panelWhatsappWeb" Key="{C5D65631-6BCA-476C-A772-4125FBA622EF}">
+														<Image FileName="563497186" Left="0" Top="162" Right="1349" Bottom="162" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Panel" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="0" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="headerWhatsappWeb" Key="{740A8984-37A1-4297-97A5-B4FDC020D98E}">
+																<Image FileName="563497186" Left="0" Top="71" Right="1349" Bottom="162" />
+																<TypeInfo Item0="{4C464189-9CCD-42BF-91E2-70855C46D51E}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="Header" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageHotmartClubAutomaODeTestesCo" Key="{17638AEB-E8E0-4556-94FB-7CB0ACF65DBE}">
+								<Image FileName="-1761487584" Left="0" Top="0" Right="1920" Bottom="1080" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://programadetestesequalidade.club.hotmart.com/lesson/NOwwaqR1Om/automacao-de-testes-com-testcomplete-(parte-2-da-aula)" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panelBlazeRoot" Key="{9F4B9281-CF19-4B3C-9D68-62F2DB293CD9}">
+										<Image FileName="-1761487584" Left="0" Top="0" Right="1920" Bottom="1472" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Panel" />
+											</Property>
+											<Property Name="idStr">
+												<Value Value="__blaze-root" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panelProgramaDeTestesEQualidade" Key="{CC61E1BF-ED69-4F54-814C-C47115CF82F0}">
+												<Image FileName="-1761487584" Left="0" Top="0" Right="1920" Bottom="1472" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Panel" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panelAnterior" Key="{03EFADF1-58C0-49A7-9562-9C17802EB12F}">
+														<Image FileName="-1761487584" Left="300" Top="0" Right="1920" Bottom="1472" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Panel" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="panelAnterior" Key="{CE6B51A6-4E50-4651-B603-F17047B6807F}">
+																<Image FileName="-1761487584" Left="300" Top="50" Right="1920" Bottom="1412" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="Panel" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="panelAutomaODeTestesCom" Key="{3E17A7E9-62BD-4521-B3B0-4A2F6FDF4F7C}">
+																		<Image FileName="-1761487584" Left="300" Top="50" Right="1920" Bottom="1412" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="Panel" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="panelAutomaODeTestesCom" Key="{35597429-B29D-4642-AC22-FF1CBFB953A5}">
+																				<Image FileName="-1761487584" Left="300" Top="50" Right="1920" Bottom="1412" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Panel" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="sectionAutomaODeTestesCom" Key="{A0B7D21B-0176-4BFD-85D7-3C4AC0F1A324}">
+																						<Image FileName="-1761487584" Left="300" Top="50" Right="1920" Bottom="762" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="Section" />
+																							</Property>
+																							<Property Name="ObjectIdentifier">
+																								<Value Value="0" Type="0" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="articleAutomaODeTestesCom" Key="{8867D17E-CCDF-41A6-8927-A795C7C6697B}" ExtendedFind="True">
+																								<Image FileName="-1761487584" Left="540" Top="170" Right="1395" Bottom="732" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="Article" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="frame" Key="{1BB7CDB9-0224-40F5-9339-61A45C0270CE}" ExtendedFind="True">
+																										<Image FileName="-1761487584" Left="0" Top="0" Right="1920" Bottom="1080" />
+																										<TypeInfo Item0="{4C464189-9CCD-42BF-91E2-70855C46D51E}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Frame" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="Lojinha" Key="{97604750-08A2-48A6-BF7D-2B8267882316}">
+						<TypeInfo Item0="{5FF0DD09-8D24-43B0-BD68-5AB878169425}" />
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="Lojinha" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="dlgLojinha" Key="{4BD059D5-9A85-478A-82ED-9D39649A5075}">
+								<Image FileName="-1270874360" Left="0" Top="0" Right="396" Bottom="149" />
+								<TypeInfo Item0="{BBF24E37-BDCC-4987-AF41-D5E998B820B0}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Lojinha" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Static" Key="{AFC984A2-253B-4A56-87AA-DCF1CF1EBD24}">
+										<Image FileName="-1270874360" Left="65" Top="59" Right="365" Bottom="74" />
+										<TypeInfo Item0="{6D0E30DC-5033-4A35-A92F-692DC303AF79}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Static" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="O valor do produto deve estar entre R$ 0,01 e R$ 7.000,00." />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="btnOK" Key="{1383C290-7F96-4079-A12B-98D54E3C4B2E}">
+										<Image FileName="-438139594" Left="303" Top="114" Right="378" Bottom="137" />
+										<TypeInfo Item0="{60064EE5-F9CF-4551-9D07-A536A5BA79AF}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="OK" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="frmPrincipal" Key="{8D995893-89AA-4B49-B416-807726FCA29C}">
+								<Image FileName="-910057923" Left="0" Top="0" Right="743" Bottom="470" />
+								<Properties>
+									<Property Name="ClassName">
+										<Value Value="TfrmPrincipal" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="frmPrincipal" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="PageControl1" Key="{8BD82C2F-FDBA-40A0-9104-1B03040A9A2F}">
+										<Image FileName="-910057923" Left="3" Top="26" Right="740" Bottom="467" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TPageControl" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="PageControl1" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="TabSheet1" Key="{57A0818B-78DA-4112-810E-327DA6822C0C}">
+												<Image FileName="-910057923" Left="7" Top="50" Right="736" Bottom="463" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TTabSheet" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="TabSheet1" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="edtUsuario" Key="{F71FB48C-4F4B-46F5-A4CF-5A1CE0FFB281}">
+														<Image FileName="63373662" Left="118" Top="114" Right="540" Bottom="135" />
+														<TypeInfo Item0="{5C55B85D-6A99-4C3F-A9EC-11CC5DAD475F}" />
+														<Properties>
+															<Property Name="ClassName">
+																<Value Value="TEdit" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="edtUsuario" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="edtSenha" Key="{621E951E-2F12-4D12-BD04-32FD2DC1B0AD}">
+														<Image FileName="788900670" Left="118" Top="150" Right="540" Bottom="171" />
+														<TypeInfo Item0="{5C55B85D-6A99-4C3F-A9EC-11CC5DAD475F}" />
+														<Properties>
+															<Property Name="ClassName">
+																<Value Value="TEdit" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="edtSenha" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="btnEntrar" Key="{E71DDD10-9F3E-4694-A476-83499989C50B}">
+														<Image FileName="552831346" Left="118" Top="190" Right="193" Bottom="215" />
+														<TypeInfo Item0="{60064EE5-F9CF-4551-9D07-A536A5BA79AF}" />
+														<Properties>
+															<Property Name="ClassName">
+																<Value Value="TButton" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="btnEntrar" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="TabSheet2" Key="{E89DFDF7-5E81-40A6-967C-FB751F4F9406}">
+												<Image FileName="1796129834" Left="7" Top="50" Right="736" Bottom="463" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TTabSheet" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="TabSheet2" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="Panel3" Key="{55DFA276-4C3C-4A48-937D-CA78620A5580}">
+														<Image FileName="1796129834" Left="7" Top="91" Right="736" Bottom="132" />
+														<Properties>
+															<Property Name="ClassName">
+																<Value Value="TPanel" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Panel3" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="btnNovoProduto" Key="{F200F49D-DA2E-4740-9344-E0522E3C4C5F}">
+																<Image FileName="1796129834" Left="511" Top="97" Right="617" Bottom="122" />
+																<TypeInfo Item0="{60064EE5-F9CF-4551-9D07-A536A5BA79AF}" />
+																<Properties>
+																	<Property Name="ClassName">
+																		<Value Value="TButton" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="btnNovoProduto" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="Panel4" Key="{AEB79C58-66A0-4687-A34F-DE2185761789}">
+														<Properties>
+															<Property Name="ClassName">
+																<Value Value="TPanel" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Panel4" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="grdProdutos" Key="{013A685C-6F5D-4885-9832-E3675B7A1279}">
+																<TypeInfo Item0="{A2EBD35E-B0E7-4710-9BC1-B24473399BD4}" />
+																<Properties>
+																	<Property Name="ClassName">
+																		<Value Value="TDBGrid" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="grdProdutos" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="TabSheet3" Key="{77A88AD4-FBBA-4AE0-9C4F-950E3A1624CC}">
+												<Image FileName="1835729770" Left="7" Top="50" Right="736" Bottom="463" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TTabSheet" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="TabSheet3" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="Panel6" Key="{FCF4AAEF-8A47-4CAB-9916-4A78D9B1F1FD}">
+														<Image FileName="1835729770" Left="320" Top="50" Right="736" Bottom="463" />
+														<Properties>
+															<Property Name="ClassName">
+																<Value Value="TPanel" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Panel6" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="edtNovoNomeProduto" Key="{3F0580ED-3D34-430E-8E82-2D0E54F0A3C1}">
+																<Image FileName="1835729770" Left="384" Top="89" Right="721" Bottom="110" />
+																<TypeInfo Item0="{5C55B85D-6A99-4C3F-A9EC-11CC5DAD475F}" />
+																<Properties>
+																	<Property Name="ClassName">
+																		<Value Value="TEdit" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="edtNovoNomeProduto" />
+																	</Property>
+																</Properties>
+															</Child>
+															<Child Name="edtNovoValorProduto" Key="{5D7FA638-4C5C-4B8B-9690-62C1706461C4}">
+																<Image FileName="-1996341271" Left="384" Top="145" Right="721" Bottom="166" />
+																<TypeInfo Item0="{5C55B85D-6A99-4C3F-A9EC-11CC5DAD475F}" />
+																<Properties>
+																	<Property Name="ClassName">
+																		<Value Value="TEdit" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="edtNovoValorProduto" />
+																	</Property>
+																</Properties>
+															</Child>
+															<Child Name="edtNovoCoresProduto" Key="{3DAD4117-5727-44AE-B845-5569BE60D2E9}">
+																<Image FileName="1289988242" Left="384" Top="201" Right="721" Bottom="222" />
+																<TypeInfo Item0="{5C55B85D-6A99-4C3F-A9EC-11CC5DAD475F}" />
+																<Properties>
+																	<Property Name="ClassName">
+																		<Value Value="TEdit" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="edtNovoCoresProduto" />
+																	</Property>
+																</Properties>
+															</Child>
+															<Child Name="btnSalvarProduto" Key="{29D5C14F-BAEA-4CD4-B4A5-1E252C7C7186}">
+																<Image FileName="760289106" Left="384" Top="246" Right="465" Bottom="271" />
+																<TypeInfo Item0="{60064EE5-F9CF-4551-9D07-A536A5BA79AF}" />
+																<Properties>
+																	<Property Name="ClassName">
+																		<Value Value="TButton" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="btnSalvarProduto" />
+																	</Property>
+																</Properties>
+															</Child>
+															<Child Name="btnListaProdutos" Key="{9726F254-E2C5-4022-BF46-650EB4C17B30}">
+																<Image FileName="437924423" Left="471" Top="246" Right="593" Bottom="271" />
+																<TypeInfo Item0="{60064EE5-F9CF-4551-9D07-A536A5BA79AF}" />
+																<Properties>
+																	<Property Name="ClassName">
+																		<Value Value="TButton" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="btnListaProdutos" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="browser" Owner="{B18E5184-75DE-4A0A-A84E-4D3EE61B7EF5}">
+			<Child Name="pageWhatsapp" Owner="{71CECE20-FDB0-4100-9726-024F00028ED2}">
+				<Child Name="headerWhatsappWeb" Owner="{740A8984-37A1-4297-97A5-B4FDC020D98E}" />
+			</Child>
+			<Child Name="pageHotmartClubAutomaODeTestesCo" Owner="{17638AEB-E8E0-4556-94FB-7CB0ACF65DBE}">
+				<Child Name="sectionAutomaODeTestesCom" Owner="{A0B7D21B-0176-4BFD-85D7-3C4AC0F1A324}">
+					<Child Name="articleAutomaODeTestesCom" Owner="{8867D17E-CCDF-41A6-8927-A795C7C6697B}">
+						<Child Name="frame" Owner="{1BB7CDB9-0224-40F5-9339-61A45C0270CE}" />
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+		<Child Name="Lojinha" Owner="{97604750-08A2-48A6-BF7D-2B8267882316}">
+			<Child Name="dlgLojinha" Owner="{4BD059D5-9A85-478A-82ED-9D39649A5075}">
+				<Child Name="Static" Owner="{AFC984A2-253B-4A56-87AA-DCF1CF1EBD24}" />
+				<Child Name="btnOK" Owner="{1383C290-7F96-4079-A12B-98D54E3C4B2E}" />
+			</Child>
+			<Child Name="frmPrincipal" Owner="{8D995893-89AA-4B49-B416-807726FCA29C}">
+				<Child Name="CorpoLojinha" Owner="{8BD82C2F-FDBA-40A0-9104-1B03040A9A2F}">
+					<Child Name="FormularioLogin" Owner="{57A0818B-78DA-4112-810E-327DA6822C0C}">
+						<Child Name="edtUsuario" Owner="{F71FB48C-4F4B-46F5-A4CF-5A1CE0FFB281}" />
+						<Child Name="edtSenha" Owner="{621E951E-2F12-4D12-BD04-32FD2DC1B0AD}" />
+						<Child Name="btnEntrar" Owner="{E71DDD10-9F3E-4694-A476-83499989C50B}" />
+					</Child>
+					<Child Name="ListaProdutos" Owner="{E89DFDF7-5E81-40A6-967C-FB751F4F9406}">
+						<Child Name="MenuSuperior" Owner="{55DFA276-4C3C-4A48-937D-CA78620A5580}">
+							<Child Name="btnNovoProduto" Owner="{F200F49D-DA2E-4740-9344-E0522E3C4C5F}" />
+						</Child>
+						<Child Name="Panel4" Owner="{AEB79C58-66A0-4687-A34F-DE2185761789}">
+							<Child Name="grdProdutos" Owner="{013A685C-6F5D-4885-9832-E3675B7A1279}" />
+						</Child>
+					</Child>
+					<Child Name="FormularioadicaoProduto" Owner="{77A88AD4-FBBA-4AE0-9C4F-950E3A1624CC}">
+						<Child Name="PainelFormularioDireito" Owner="{FCF4AAEF-8A47-4CAB-9916-4A78D9B1F1FD}">
+							<Child Name="edtNovoNomeProduto" Owner="{3F0580ED-3D34-430E-8E82-2D0E54F0A3C1}" />
+							<Child Name="edtNovoValorProduto" Owner="{5D7FA638-4C5C-4B8B-9690-62C1706461C4}" />
+							<Child Name="edtNovoCoresProduto" Owner="{3DAD4117-5727-44AE-B845-5569BE60D2E9}" />
+							<Child Name="btnSalvarProduto" Owner="{29D5C14F-BAEA-4CD4-B4A5-1E252C7C7186}" />
+							<Child Name="btnListaProdutos" Owner="{9726F254-E2C5-4022-BF46-650EB4C17B30}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>

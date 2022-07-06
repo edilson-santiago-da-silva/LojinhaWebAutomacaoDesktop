@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="projects">
+			<Node name="project0">
+				<Node name="tests">
+					<Node name="test0">
+						<Node name="warnings"/>
+						<Node name="errors">
+							<Node name="error1">
+								<Prp name="msg" type="S" value="The test run has stopped because your test project is configured to stop on errors."/>
+							</Node>
+							<Node name="error0">
+								<Prp name="msg" type="S" value="The addressed functionality is not available for parallel execution."/>
+							</Node>
+						</Node>
+						<Prp name="starttime" type="D" value="44733.4654045486"/>
+						<Prp name="status" type="I" value="2"/>
+						<Prp name="executionpoint" type="S" value="executionpoint://ewA5ADcARAA5AEEAMQBFAEEALQA5ADEARAA0AC0ANAAyAEIANAAtAEEAMABGADUALQBDAEYANgA5ADAANABCADIAMQAwAEUAQwB9AC8AewAwAEMARQA3ADQARgBDADUALQBFADIAQwBEAC0ANAAyADIAMAAtADkAMwBDADIALQAzADgARAA4AEIANwBEADEAMQBCAEUAMAB9AC8AZQBtAHAAdAB5AC8AZQBtAHAAdAB5AA=="/>
+						<Prp name="name" type="S" value="Testar o valor igual a 7.000,01 para o produto"/>
+						<Prp name="duration" type="I" value="2015"/>
+						<Prp name="durationwithoutchildren" type="I" value="2015"/>
+					</Node>
+				</Node>
+				<Prp name="starttime" type="D" value="44733.4654045486"/>
+				<Prp name="failedtests" type="I" value="1"/>
+				<Prp name="warningtests" type="I" value="0"/>
+				<Prp name="name" type="S" value="Lojinha Desktop"/>
+				<Prp name="duration" type="I" value="2015"/>
+				<Prp name="incompletedtests" type="I" value="0"/>
+			</Node>
+		</Node>
+		<Prp name="key" type="S" value="{E3605B17-03CD-479A-BC28-417D6FBFBFD9}"/>
+		<Prp name="tests" type="I" value="1"/>
+		<Prp name="starttime" type="D" value="44733.4654040856"/>
+		<Prp name="failedtests" type="I" value="1"/>
+		<Prp name="executionstatus" type="I" value="2"/>
+		<Prp name="testname" type="S" value="Lojinha Desktop: Teste de adição de produto\Testar o valor igual a 7.000,01 para o produto"/>
+		<Prp name="successtestwithretries" type="I" value="0"/>
+		<Prp name="warningtestwithretries" type="I" value="0"/>
+		<Prp name="host" type="S" value="DESKTOP-GGT03PO"/>
+		<Prp name="user" type="S" value="edils"/>
+		<Prp name="incompletedtests" type="I" value="0"/>
+		<Prp name="name" type="S" value="Lojinha Desktop"/>
+		<Prp name="stop" type="D" value="44733.465428912"/>
+		<Prp name="warningtests" type="I" value="0"/>
+	</Node>
+</Nodes>
