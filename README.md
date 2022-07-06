@@ -1,9 +1,7 @@
 # Automação Desktop do aplicativo Lojinha
-Essa automação testa o cadastro de uma tarefa inválida. Os sub-tópicos abaixo descrevem a estruturação do projeto.
-
 ## Descrição da automação.
-A automação Desktop do aplicativo lojinha foi desenvolvida no treinamento PTQS em JavaScript com a ferramenta TestComplete e tem como estrutura o Page object design pattern,
-foi elaborada para testar se é possível cadastrar uma produto com parâmetros inválidos.
+A automação foi desenvolvida no treinamento PTQS em JavaScript com a ferramenta TestComplete e tem como estrutura o Page object design pattern. A automação foi
+elaborada para testar se é possível cadastrar produtos com parâmetros inválidos.
 
 ### Status do projeto: Concluído. ✔
 
@@ -15,11 +13,17 @@ foi elaborada para testar se é possível cadastrar uma produto com parâmetros 
 ## Instalação & Execução
 - Instale o TestComplete
 - Abra o TestComplete ➡ Abra a pasta do projeto.
+- Abra a pasta TestedApps ➡ atualize o caminho da aplicação na sua máquina.
+exemplo:
+- Application:
+```
+C:\Users\edilson\Downloads\Lojinha Desktop\app\Lojinha.exe
+```
 - Execute o projeto ➡ ▶Run Project
 
 ## Caso prefira ver a execução do projeto de uma forma mais simples, abra o link abaixo.
 
-- [🎬Publicação]().  Nesse link está minha postagem em vídeo no LinkedIn.
+- [🎬Publicação](https://www.linkedin.com/feed/update/urn:li:ugcPost:6950497243950944256/).  Nesse link está minha postagem em vídeo no LinkedIn.
 
 ## Autor
 
